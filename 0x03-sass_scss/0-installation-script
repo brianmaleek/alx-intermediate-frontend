@@ -41,8 +41,8 @@ else
     check_versions
 fi
 
-# Step 2: Install Latest SASS version
-echo "Installing Latest SASS version..."
+# Step 2: Install Specific SASS version
+echo "Installing Specific SASS version..."
 npm install sass -v 3.7.4
 
 # Step 3: Verify installation
