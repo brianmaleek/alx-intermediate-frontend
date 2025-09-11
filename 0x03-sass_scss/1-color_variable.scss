@@ -1,0 +1,11 @@
+// Define SASS variable for color
+$primary-color: #3D3D3D;
+
+// Apply color to body and p tags
+body {
+    color: $primary-color; 
+}
+
+p {
+    color: $primary-color;
+}
