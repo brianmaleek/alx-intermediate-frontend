@@ -1,4 +1,4 @@
-
+// Create a mixin for setting left and right margins
 @mixin margins($value) {
     margin-left: $value;
     margin-right: $value;
